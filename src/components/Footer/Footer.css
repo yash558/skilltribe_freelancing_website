@@ -1,0 +1,25 @@
+.footer {
+  padding: 1rem;
+}
+
+.footer_details i{
+    padding: 12px;
+    background-color: #fff;
+    font-size: 1.5rem;
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+}
+
+.footer_details span{
+    font-size: 1.2rem;
+    margin-left: 10px;    
+}
+
+.footer .details_desc{
+    font-size: 1.4rem;
+    margin-left: 10px;
+    font-weight: 600;    
+}
